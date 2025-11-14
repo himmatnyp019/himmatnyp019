@@ -48,18 +48,18 @@
 - Full **MERN stack** multi-portal system (customer, staff, admin)
 - Integrated **Korean payment gateways** (PortOne, Toss, Kakao, etc.)
 - Features **order management, inventory, staff tools & analytics**
-- 🔗 [Repo / Case Study](https://www.rasarahasa.com)
+- 🔗 [Link / Case Study](https://www.rasarahasa.com)
 
 #### 🧠 GMEH-2 Learning Platform
 - Hybrid **Firebase + MongoDB** auth & data model
 - Features **MCQ exams, chat groups, job board, learning materials**
 - Built with **React, Node, and real-time DB structures**
-- 🔗 [Repo / Demo / Under Develople]()
+- 🔗 (Under Development)
 
-#### 🏭 LUNO Smart Factory (Industry 4.0)
-- Conceptual **smart factory** design with **IoT, MES, ERP, and digital twin**
-- Includes **system diagrams, data pipelines, and automation logic**
-- 🔗 [Docs / Diagrams](https://github.com/your-username/your-repo)
+#### 🏭 MY Research Papers / Article (Nature + Technology)
+- Conceptual **Future possibility** focused on **business model, science, bio-tech, and digital twin**
+- Includes **system diagrams, science & bio tech, and automation logic**
+- 🔗 [Docs / Articeles](https://www.himmatneupane.com.np/main/article/article.html)
 
 ---
 
