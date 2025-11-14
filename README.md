@@ -1,14 +1,14 @@
 <!-- Title & Intro -->
-<h1 align="center">Hi, I'm Sushant Muji 👋</h1>
+<h1 align="center">Hi, I'm Himmat👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | PWA & TWA Builder | Future AI & Quant Engineer</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?style=flat-square&label=Followers" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=flat-square&label=Profile%20Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&label=Profile%20Views" />
+  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/himmatnyp019?style=flat-square&label=Followers" /></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/stars/himmatnyp019?affiliations=OWNER&style=flat-square&label=Profile%20Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=himmatnyp019&style=flat-square&label=Profile%20Views" />
 </p>
 
 ---
@@ -48,13 +48,13 @@
 - Full **MERN stack** multi-portal system (customer, staff, admin)
 - Integrated **Korean payment gateways** (PortOne, Toss, Kakao, etc.)
 - Features **order management, inventory, staff tools & analytics**
-- 🔗 [Repo / Case Study](https://github.com/your-username/your-repo)
+- 🔗 [Repo / Case Study](https://www.rasarahasa.com)
 
 #### 🧠 GMEH-2 Learning Platform
 - Hybrid **Firebase + MongoDB** auth & data model
 - Features **MCQ exams, chat groups, job board, learning materials**
 - Built with **React, Node, and real-time DB structures**
-- 🔗 [Repo / Demo](https://github.com/your-username/your-repo)
+- 🔗 [Repo / Demo / Under Develople]()
 
 #### 🏭 LUNO Smart Factory (Industry 4.0)
 - Conceptual **smart factory** design with **IoT, MES, ERP, and digital twin**
@@ -66,24 +66,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himmatnyp019&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himmatnyp019&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmatnyp019&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
 ### 📫 Contact
 
-- 💼 Portfolio / Website: [your-site.com](https://your-site.com)
-- ✉️ Email: your.email@example.com
-- 🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+- 💼 Portfolio / Website: [Link](https://himmatneupane.com.np)
+- ✉️ Email: mail@himmatneupane.com.np
+- 🔗 LinkedIn: [Himmat](https://www.linkedin.com/in/himmat019)
+
+)
 
 ---
 
